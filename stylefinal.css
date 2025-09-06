@@ -1,0 +1,204 @@
+.título-general {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 50px;
+  color: purple;
+  text-decoration: underline;
+  background: linear-gradient(
+    to bottom,
+    #d4af37,   /* dorado intenso arriba */
+    #e6c86e,   /* dorado medio */
+    #f5e6b3,   /* crema perlada */
+    #e6c86e,   /* dorado medio */
+    #bfa14a    /* dorado oscuro abajo */
+  );
+  border: 4px solid black;
+  text-align: center;
+}
+
+.Whats-up-lindas {
+    display: block;
+    margin:0 auto;
+    width: 300px;
+    height:200px;
+    box-shadow: 0 0 10px 3px rgba(0,0,0,0.9);
+    transition: transform 0,3s ease;
+    cursor:pointer;   
+}
+
+.Bienvenida {
+    color:goldenrod;
+    text-decoration: underline;
+}
+
+
+.Enlistado {
+    color: black;
+    list-style-type:upper-latin;
+}
+.Subtítulos-1 {
+    color: crimson;
+}
+
+.textos-base {
+    font-family: 'Times New Roman', Times, serif;
+    font-size:20px;
+    text-align: justify;
+}
+
+.Subtítulos-2 {
+    color:darkgreen
+}
+
+.subtextos-base-1 {
+    color: black;
+    list-style-type: lower-greek;
+}
+
+.subtextos-base-1-1 {
+    color: firebrick;
+}
+.Subtítulos-3 {
+    color:blueviolet
+}
+
+.link-1 {
+    cursor: pointer;
+}
+.MIXELS-SERIE {
+    border: 2px black solid;
+    display: block;
+    margin:0 auto;
+}
+
+.Todos-Los-Míxels {
+    display: block;
+    margin:0 auto;
+    border:2px solid black;
+}
+.Lego-Míxels {
+    display: block;
+    margin:0 auto;
+    border:2px solid black;
+    width: 644px;
+    height: 310px;
+}
+
+.subtextos-base-2 {
+    text-decoration: underline;
+    font-family:'Times New Roman', Times, serif ;
+    color:chocolate;
+}
+
+.subtextos-base-2-2 {
+    font-family: 'Times New Roman', Times, serif;
+    list-style: none;
+    list-style-type:upper-latin;
+    color:black;
+    margin: 0;
+    padding-right: 20px;
+}
+
+.subtextos-base-2-3 {
+    color:royalblue;  
+}
+
+.subtextos-base-2-4 {
+    color: plum;  
+}
+
+.Fotos-Monster-High {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.Monster-High-2D,
+.Monster-High-3D {
+  color:black;
+  border:dotted;
+  display: inline-block; 
+  width: 300px;
+  height: 300px;
+  margin: 0 10px; 
+  cursor: pointer;
+}
+
+.link-Míxels {
+    cursor:pointer
+}
+
+.link-Monster-High {
+    cursor:pointer
+}
+
+.subtextos-base-2-3 {
+    font-family: 'Times New Roman', Times, serif;
+    list-style: none;
+    list-style-type:upper-latin;
+    margin: 0;
+    padding-right: 20px;
+}
+
+.subtextos-base-2-5 {
+    color:deeppink;
+}
+
+.link-Furbys {
+    cursor: pointer;
+}
+
+.Fotos-Furbys {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.Furbys-gen-1-4 {
+  border: black dashed;
+  display: inline-block; 
+  width: 300px;
+  height: 300px;
+  margin: 0 10px; 
+}
+
+.Furbys-gen-not-that-old {
+  border: black dashed;
+  display: inline-block; 
+  width: 300px;
+  height: 300px;
+  margin: 0 10px; 
+}
+
+.Foto-Furby-2 {
+  text-align: center;
+  display: block;
+  margin-top: 20px
+}
+.Furbys-into-the-boxes {
+  text-align: center;
+  border: black dashed;
+  width: 300px;
+  height: 300px;
+  margin: 0 10px; 
+}
+
+.subtextos-base-2-6 {
+    color:firebrick;
+}
+
+.link-Ever-After-High {
+    cursor: pointer;
+}
+
+.Fotos-Ever-After-High {
+    text-align: center;
+    display: block;
+    margin-top: 20px;
+}
+.Ever-After-High-Portada,
+.Ever-After-High-Bembole,
+.Ever-After-High-Dolls-2 {
+    text-align: center;
+    border: black double;
+    width: 300px;
+    height: 300px;
+    margin: 0 10px; 
+}
